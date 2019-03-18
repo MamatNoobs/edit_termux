@@ -41,7 +41,7 @@ def banner():
   print s+"+---------------------------------------------+"
   iqbalz ("\ra|  Author:\rh Mamat Utama")
   iqbalz ("\ra|  Team  :\rh LIFE OF PROGRAMMER")
-  iqbalz ("\ra|  Github:\rh https://www.github.com/UtamaNoobs")
+  iqbalz ("\ra|  Github:\rh https://www.github.com/MamatNoobs")
   print s+"|   +-----------------------------------------+"
   iqbalz("\rm|   | \rm[\rs1\rm]\rk  Ubah termux kamu sekarang          |")
   iqbalz("\rm|   | \rm[\rs2\rm]\rk  Cara Mengedit                      |")
